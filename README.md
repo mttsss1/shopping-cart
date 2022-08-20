@@ -2,7 +2,7 @@
 
 <p align="center"> Esse projeto é uma aplicação em React que simula uma loja, especificamente as funcionalidades de um carrinho de compras.</p>
 
-<img src="./github/imgs/shopping-cart.png"/>
+![1](https://user-images.githubusercontent.com/60020307/185745475-a67dd558-bb74-46d1-9812-891d67f47da4.png)
 
 * [Sobre](#Sobre)
 * [Tecnologias](#Tecnologias)
